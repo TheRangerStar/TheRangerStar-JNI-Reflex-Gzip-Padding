@@ -24,7 +24,7 @@ class MainActivity : AppCompatActivity() {
         binding.sampleText.text = stringFromJNI()
 
 
-        val needEncryptValue = "iwejfioceomocmowdmocmodwmcoqjdioejjdiweojfmweo"
+        val needEncryptValue = "iwejfioceomocmowdmocmodwmcoqjdioejjdiweojfmweossss"
 
     }
 
