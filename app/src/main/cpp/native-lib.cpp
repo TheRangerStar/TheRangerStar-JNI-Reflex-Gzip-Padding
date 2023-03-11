@@ -7,4 +7,4 @@ Java_com_nrcan_http_MainActivity_stringFromJNI(
         jobject /* this */) {
     std::string hello = "Hello from C++";
     return env->NewStringUTF(hello.c_str());
-}JNI-Reflex-Gzip-Padding
+}
