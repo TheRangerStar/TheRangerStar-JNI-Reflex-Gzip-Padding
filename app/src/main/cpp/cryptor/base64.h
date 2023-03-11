@@ -1,8 +1,7 @@
 
 /**
  * `b64.h' - b64
- *
- * copyright (c) 2014 joseph werle
+dd * copyright (c) 2014 joseph werle
  */
 
 #ifndef B64_H

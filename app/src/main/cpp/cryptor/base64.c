@@ -1,7 +1,7 @@
 
 /**
  * `encode.c' - b64
- *
+ *dd
  * copyright (c) 2014 joseph werle
  */
 
